@@ -1,6 +1,6 @@
 # Ignore Mac system files
 .DS_store
-.idea/
+.idea/*
 
 # Ignore node_modules folder
 node_modules
